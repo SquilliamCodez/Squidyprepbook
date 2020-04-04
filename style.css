@@ -1,0 +1,97 @@
+#title {
+  text-align: center;
+  border: solid;
+  border-color:rgb(65, 204, 102);
+  background: rgb(245, 245, 245)
+}
+
+#wrapper {
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr;
+  gird-emplate-row: 500px;
+  grid-gap: 10px;
+  justify-items: center;
+}
+
+#pic {
+  width: 100%;
+}
+#title {
+  text-align: center;
+  font-family: "Lobster", cursive;
+  font-family: "Mitr", sans-serif;
+  font-weight: 700;
+  color: rgb(65, 204, 102);
+}
+body {
+  background-image: url("https://p6cdn4static.sharpschool.com/UserFiles/Servers/Server_15464774/Image/UPCHS%20Gator%20Logo_CMYK.png");
+  background-repeat: no-repeat;
+  background-position: top 0px right 50%;
+  background-size: 150px 100px;
+}
+#name{
+font-size: 30px;
+font-weight: 600;
+font-family: 'Crete Round', serif;
+color: rgb(17, 6, 54);
+}
+#quote{
+font-size: 30px;
+font-weight: 600;
+font-family: 'Crete Round', serif;
+color: rgb(17, 6, 54);
+}
+#superlative{
+font-size: 30px;
+font-weight: 600;
+font-family: 'Crete Round', serif;
+color: rgb(17, 6, 54);
+}
+#card-text{
+  margin: 10px;
+  color: rgb(65, 204, 102);
+  font-weight: 700;
+  font-family: "Lobster", cursive;
+  font-family: "Mitr", sans-serif;
+  font-size:20px
+}
+#card-title{
+  margin: 10px;
+  color: rgb(65, 204, 102);
+  font-weight: 650;
+  font-size: 20px
+}
+#card-header{
+ margin: 5px;
+  color: rgb(65, 204, 102);
+  font-weight: 650;
+  font-family: "Lobster", cursive;
+  font-family: "Mitr", sans-serif;
+  font-size:20px
+} 
+#card{
+background: rgb(245, 245, 245);
+border: solid;
+border-color:rgb(65, 204, 102) 
+}
+#note{
+font-size: 15px;
+font-family: "Lobster", cursive;
+font-family: "Mitr", sans-serif;
+font-weight: 650;
+color: rgb(65, 204, 102)
+}
+#next{
+font-size: 15px;
+font-family: "Lobster", cursive;
+font-family: "Mitr", sans-serif;
+font-weight: 650;
+color: rgb(65, 204, 102)
+}
+#back{
+font-size: 15px;
+font-family: "Lobster", cursive;
+font-family: "Mitr", sans-serif;
+font-weight: 650;
+color: rgb(65, 204, 102)
+}
